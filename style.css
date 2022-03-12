@@ -1,0 +1,32 @@
+.logo{
+    background: url("/images/h_img.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.logo img{
+    padding-top: 230px;
+    margin-left: 600px;   
+}
+h1{
+    padding: 100px;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 0px;
+    padding-right: 200px;
+    padding-top: 10px;
+    color: azure;
+}
+h2{
+    margin-left: 500px;
+    padding-top: 0px;
+    margin-bottom: 50px;
+    color: azure;
+}
+h3{
+    font-size: small;
+    margin-left: 450px;
+    color: azure;
+    margin-bottom: 50px;                                               
+}
+
+
